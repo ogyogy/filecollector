@@ -1,4 +1,7 @@
 # filecollector
+
+Separate folders by file extension.
+
 ## Installation
 
 ```bash
